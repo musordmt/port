@@ -1,0 +1,13 @@
+import{A as e}from"./UIcon.30f76e51.js";import{g as t}from"./skills.10202fcd.js";import{C as o}from"./types.1ebf2f37.js";const s=[{slug:"full-stack-webgl-webgl",company:"NovaConcepts",description:`- Completely created a website for Sculptures and Photos from A to Z (Tetra3D). 
+- Developed 3D Virtual Store with Next.js, Three.js for a new feature. 
+- Developed Casino Game Platform using React.js, Pixi, Node.js, MongoDB and WebSocket (PlayZelo). 
+- Integrated crypto payment gateway for player financial management using Tatum.io and Binance API. 
+- ChatGPT Integration and Training ChatGPT From PDF and Voice. 
+- Suggested new practices for enhancements of software development quality`,contract:o.Freelance,type:"Software Development",location:"Remote",period:{from:new Date(2023,7,1),to:new Date},skills:t("ts","js","next","three.js","chatgpt","laravel","nodejs","fastify"),name:"Full-Stack and WebGL Developer",color:"red",links:[],logo:e.Nova,shortDescription:""},{slug:"full-stack-contract",company:"Motley Agency",description:`- Developed interactive 3D web applications, 3D Visualization, 3D Web Games using React.js, Vue.js, Three.js, Unity3D framework. 
+- Implemented complex 3D animations and visual effects using shaders and WebGL. 
+- Optimized performance by utilizing efficient rendering techniques and minimizing resource usage. 
+- Built a dynamic web application using Node.js, Laravel, and React.js frameworks. 
+- Developed 2D web games using HTML5 game engines like Phaser, Pixi and Cocos2D.`,contract:o.Contract,type:"Software Development",location:"Remote",period:{from:new Date(2020,9,1),to:new Date(2023,5,30)},skills:t("vue","ts","css","html","tailwind","js","three.js","unity","solidity","shadcn"),name:"Full-Stack Developer",color:"blue",links:[],logo:e.Motley,shortDescription:""},{slug:"software-freelance-junior",company:"Self-employed",description:`- Developed a delivery logistics platform using React.js, Javascript, HTML, CSS, jQuery, Websocket, etc. 
+- Implemented AI features and modifications for the existing codebase. 
+- Participated in the incorporation of AI software for finding patterns. 
+- Migrated web pages in PHP into Vue.js Implemented real-time location tracking using google maps and web socket.`,contract:o.Freelance,type:"Software Development",location:"Home",period:{from:new Date(2019,5,1),to:new Date(2020,9,1)},skills:t("css","html","js","ts","laravel","reactjs","nodejs","python"),name:"Junior Freelancer",color:"green",links:[],logo:e.Upwork,shortDescription:""}],r="Experience";export{s as i,r as t};
