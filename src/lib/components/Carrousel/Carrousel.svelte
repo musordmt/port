@@ -5,7 +5,6 @@
 	import UIcon from '../Icon/UIcon.svelte';
 
 	export let items: Array<Skill> = [];
-	console.log(items)
 	const delay = 2000;
 
 	let element: HTMLElement;
